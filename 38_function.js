@@ -1,3 +1,4 @@
+// return with multiple parameter
 function multiply(a, b){
  return a * b;
 

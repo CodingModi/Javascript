@@ -1,3 +1,4 @@
+// function
 function add(){
     let a = 60;
     let b = 90;

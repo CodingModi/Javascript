@@ -1,3 +1,4 @@
+// anonymous function with multiple parameter
 let add = function(a,b){
     return a+b;
 }

@@ -1,3 +1,4 @@
+//Default Parameters 
 function greet(name = "guys"){
     console.log("hello"+""+name);
 }
