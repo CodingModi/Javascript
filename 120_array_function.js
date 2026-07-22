@@ -1,0 +1,1 @@
+console.log(fruits.slice(1)); 
